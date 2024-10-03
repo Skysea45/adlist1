@@ -53,3 +53,8 @@ log.byteoversea.com
 logservice1.hicloud.com
 app.getsentry.com
 bdapi-ads.realmemobile.com
+fwtracks.freshmarketer.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
